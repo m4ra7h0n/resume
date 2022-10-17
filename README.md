@@ -4,14 +4,6 @@
 
 > 主要使用vue 和 animate.css 制作个人在线简历，效果比较接近于H5页面,支持鼠标滑动切换
 
-### 演示（请忽略渣渲染）
-
-![resume.gif](https://github.com/lyttonlee/pic/blob/master/resume.gif?raw=true)
-
-### 在线地址
-
-githubPages: https://lyttonlee.github.io/
-
 ## Build Setup
 
 ``` bash
