@@ -9,7 +9,6 @@
           <h2>自我评价</h2>
           <p>高效的自学能力,具备独立分析解决问题能力</p>
           <p>强烈的自我驱动力,只喜欢优雅的代码</p>
-          <p>熟悉组件化开发，sf重度依耐性患者</p>
         </div>
         <div class="honor">
           <h2>兴趣爱好</h2>
@@ -43,9 +42,9 @@ export default {
       show: false,
       accounts: [
         {class: 'icon-GitHub', link: 'https://github.com/lyttonlee'},
-        {class: 'icon-sf', link: 'https://segmentfault.com/u/siwuweihesi'},
-        {class: 'icon-zhihu', link: 'https://www.zhihu.com/people/li-zai-rong-27/activities'},
-        {class: 'icon-xinlang', link: 'https://weibo.com/1803573600/profile?topnav=1&wvr=6&is_all=1'}
+        {class: 'icon-sf', link: 'https://www.zhihu.com/people/xiao-jian-jian-39-23'},
+        {class: 'icon-zhihu', link: 'https://www.zhihu.com/people/xiao-jian-jian-39-23'},
+        {class: 'icon-xinlang', link: 'https://www.zhihu.com/people/xiao-jian-jian-39-23'}
       ]
     }
   },

@@ -51,10 +51,10 @@ export default {
           name: '服务端',
           background: 'rgba(211, 184, 30, 0.2)',
           child: [
-            {name: 'Spring Boot', background: 'rgba(211, 184, 30, 0.2)'},
+            {name: 'Spring Boot/Cloud', background: 'rgba(211, 184, 30, 0.2)'},
             {name: 'Spring Cloud Alibaba', background: 'rgba(211, 184, 30, 0.2)'},
-            {name: 'mongoose', background: 'rgba(211, 184, 30, 0.2)'},
-            {name: 'ES6', background: 'rgba(211, 184, 30, 0.2)'}
+            {name: 'dubbo', background: 'rgba(211, 184, 30, 0.2)'},
+            {name: 'Laravel', background: 'rgba(211, 184, 30, 0.2)'}
           ]
         },
         {
@@ -62,7 +62,7 @@ export default {
           background: 'rgba(232, 13, 24, 0.2)',
           child: [
             {name: 'Git', background: 'rgba(232, 13, 24, 0.2)'},
-            {name: 'WebPack', background: 'rgba(232, 13, 24, 0.2)'},
+            {name: 'Apifox', background: 'rgba(232, 13, 24, 0.2)'},
             {name: 'Kali', background: 'rgba(232, 13, 24, 0.2)'},
             {name: 'Docker', background: 'rgba(232, 13, 24, 0.2)'}
           ]

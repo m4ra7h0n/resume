@@ -35,7 +35,7 @@ export default {
         },
         {
           name: 'learning-anything',
-          skills: 'maven SpringBoot SpringCloudAlibaba Dubbo Security Nacos Sentinel...',
+          skills: 'Maven\nSpringBoot\nSpringCloudAlibaba\nDubbo\nNacos\nSentinel\nseata\nmybatis-plus...',
           content: '记录一切学习过的代码和源码',
           github: 'https://github.com/x-j-j/learning-anything'
         }
